@@ -6,7 +6,7 @@ def grad_sphere(field, llon, llat):
     (forward or backward) on the edges.
     """
     import numpy as np
-    R = 6371.0e3 # Earth radius in km.
+    R = 6371.0e3 # Earth radius in m.
     
     field = np.double(field)
     llon = np.double(llon)
@@ -33,7 +33,7 @@ def div_sphere(field_a, field_b, llon, llat):
     (forward or backward) on the edges.
     """
     import numpy as np
-    R = 6371.0e3 # Earth radius in km.
+    R = 6371.0e3 # Earth radius in m.
     
     field_a = np.double(field_a)
     field_b = np.double(field_b)
@@ -63,7 +63,7 @@ def stretched_div_sphere(field_a, field_b, llon, llat, u_field, v_field):
     (forward or backward) on the edges.
     """
     import numpy as np
-    R = 6371.0e3 # Earth radius in km.
+    R = 6371.0e3 # Earth radius in m.
 
     field_a = np.double(field_a)
     field_b = np.double(field_b)
