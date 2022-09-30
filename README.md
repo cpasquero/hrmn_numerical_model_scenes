@@ -7,5 +7,5 @@ In this repository, netcdf files are available containing the following variable
 - uc, vc: ocean surface currents [m/s] (available only when the simulation is coupled to the CROCO ocean model);
 
 For each domain there is a reference paper that describes the numerical setup, the area and time period of interest.
-Ligurian Sea: Meroni, Renault, Parodi and Pasquero (2018) https://doi.org/10.1007/s00024-018-2002-y
-EUREC4A: Tartaglione et al. (2022) in preparation
+1. Ligurian Sea: Meroni, Renault, Parodi and Pasquero (2018) https://doi.org/10.1007/s00024-018-2002-y
+2. EUREC4A: Tartaglione et al. (2022) in preparation
