@@ -10,5 +10,5 @@ The files might contain 'd01', 'd02' or 'd03' in their names. This refers to the
 
 For each domain, there is a reference paper that describes the numerical setup, the area and time period of interest.
 1. Ligurian Sea: Meroni, Renault, Parodi and Pasquero (2018) https://doi.org/10.1007/s00024-018-2002-y
-2. EUREC4A: Tartaglione et al. (2022) in preparation
+2. EUREC4A: Tartaglione et al. (2024) https://doi.org/10.1002/asl.1208
 3. Western Mediterranean: Renault, Arsouze and Ballabrera-Poy (2021) https://doi.org/10.1029/2020JC016664
